@@ -12,34 +12,14 @@
     + Mobile: **React Native, Nativewind**
     + DevOps: **Docker, Docker Compose, Docker swarm**
 
-- 📝 How to reach me **kimlean@gmail.com**
-
-- ❇️ My blog **[kimlean.com](https://kimlean.com/)**
-- 🔥 Tools I've built: 
-  + **[vitabooth](https://vitabooth.netlify.app/)** : A cute photobooth web for my girl 💗
-  + **[ai-stack](https://github.com/kimleanPenn/ai-stack)** : Boilerplate code for AI development.
-  + **[api-stack](https://github.com/kimleanPenn/api-stack)** : Boilerplate code for API development.
-  + **[lib-stack](https://github.com/kimleanPenn/lib-stack)** : Boilerplate code for python library development.
-  + **[doc-stack](https://github.com/kimleanPenn/doc-stack)** : Boilerplate code for documentation the project. 
-  + **[pykhmernlp](https://kimleanpenn.github.io/pykhmernlp/)** : Collects of khmer tools to work with khmer language.
-  + **[autocrop_kh](https://github.com/kimleanPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/kimlean/autocrop-kh) : A simple model to autocrop document from background.
-  + **[ocr_toolkits](https://github.com/kimleanPenn/ocr_toolkits)** : A collection funcs to work with Khmer OCR.
-  + **[face_toolkits](https://github.com/kimleanPenn/face_toolkits)** : A collection funcs to work with Khmer OCR.
-  + **[tts_toolkits](https://github.com/kimleanPenn/tts_toolkits)** : A collection funcs to work with Khmer TTS.
-  + **[asr_toolkits](https://github.com/kimleanPenn/asr_toolkits)** : A collection funcs to work with Khmer ASR.
-  + **[sdab](https://github.com/kimleanPenn/sdab)** : A small model for Khmer Speech to Text training with a small dataset.
-
-
-
-
+- 📝 How to reach me **kimlean98@gmail.com**
 
 <h2 align="left"></h2>
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimleanpenn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimleanpenn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&hide=Jupyter%20Notebook,Lua,Smarty,SCSS,Makefile" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimlean&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimlean&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&hide=Jupyter%20Notebook,Lua,Smarty,SCSS,Makefile" height="150" alt="languages graph"  />
 
 
 </div>
@@ -88,7 +68,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kimleanPenn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kimlean/output/snake.svg" alt="Snake animation" />
 
 ### -->
 
