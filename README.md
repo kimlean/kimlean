@@ -12,22 +12,22 @@
     + Mobile: **React Native, Nativewind**
     + DevOps: **Docker, Docker Compose, Docker swarm**
 
-- 📝 How to reach me **Metythorn@gmail.com**
+- 📝 How to reach me **kimlean@gmail.com**
 
-- ❇️ My blog **[metythorn.com](https://metythorn.com/)**
+- ❇️ My blog **[kimlean.com](https://kimlean.com/)**
 - 🔥 Tools I've built: 
   + **[vitabooth](https://vitabooth.netlify.app/)** : A cute photobooth web for my girl 💗
-  + **[ai-stack](https://github.com/MetythornPenn/ai-stack)** : Boilerplate code for AI development.
-  + **[api-stack](https://github.com/MetythornPenn/api-stack)** : Boilerplate code for API development.
-  + **[lib-stack](https://github.com/MetythornPenn/lib-stack)** : Boilerplate code for python library development.
-  + **[doc-stack](https://github.com/MetythornPenn/doc-stack)** : Boilerplate code for documentation the project. 
-  + **[pykhmernlp](https://metythornpenn.github.io/pykhmernlp/)** : Collects of khmer tools to work with khmer language.
-  + **[autocrop_kh](https://github.com/MetythornPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/metythorn/autocrop-kh) : A simple model to autocrop document from background.
-  + **[ocr_toolkits](https://github.com/MetythornPenn/ocr_toolkits)** : A collection funcs to work with Khmer OCR.
-  + **[face_toolkits](https://github.com/MetythornPenn/face_toolkits)** : A collection funcs to work with Khmer OCR.
-  + **[tts_toolkits](https://github.com/MetythornPenn/tts_toolkits)** : A collection funcs to work with Khmer TTS.
-  + **[asr_toolkits](https://github.com/MetythornPenn/asr_toolkits)** : A collection funcs to work with Khmer ASR.
-  + **[sdab](https://github.com/MetythornPenn/sdab)** : A small model for Khmer Speech to Text training with a small dataset.
+  + **[ai-stack](https://github.com/kimleanPenn/ai-stack)** : Boilerplate code for AI development.
+  + **[api-stack](https://github.com/kimleanPenn/api-stack)** : Boilerplate code for API development.
+  + **[lib-stack](https://github.com/kimleanPenn/lib-stack)** : Boilerplate code for python library development.
+  + **[doc-stack](https://github.com/kimleanPenn/doc-stack)** : Boilerplate code for documentation the project. 
+  + **[pykhmernlp](https://kimleanpenn.github.io/pykhmernlp/)** : Collects of khmer tools to work with khmer language.
+  + **[autocrop_kh](https://github.com/kimleanPenn/autocrop_kh)** | [demo](https://huggingface.co/spaces/kimlean/autocrop-kh) : A simple model to autocrop document from background.
+  + **[ocr_toolkits](https://github.com/kimleanPenn/ocr_toolkits)** : A collection funcs to work with Khmer OCR.
+  + **[face_toolkits](https://github.com/kimleanPenn/face_toolkits)** : A collection funcs to work with Khmer OCR.
+  + **[tts_toolkits](https://github.com/kimleanPenn/tts_toolkits)** : A collection funcs to work with Khmer TTS.
+  + **[asr_toolkits](https://github.com/kimleanPenn/asr_toolkits)** : A collection funcs to work with Khmer ASR.
+  + **[sdab](https://github.com/kimleanPenn/sdab)** : A small model for Khmer Speech to Text training with a small dataset.
 
 
 
@@ -38,8 +38,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=metythornpenn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=metythornpenn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&hide=Jupyter%20Notebook,Lua,Smarty,SCSS,Makefile" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimleanpenn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimleanpenn&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&hide=Jupyter%20Notebook,Lua,Smarty,SCSS,Makefile" height="150" alt="languages graph"  />
 
 
 </div>
@@ -74,7 +74,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/metythorn/" target="blank">
+  <a href="https://www.linkedin.com/in/kimlean/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -88,7 +88,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MetythornPenn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kimleanPenn/output/snake.svg" alt="Snake animation" />
 
 ### -->
 
